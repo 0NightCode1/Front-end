@@ -1,0 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Nosifer" rel="stylesheet">
+font-family: 'Nosifer', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Caesar+Dressing" rel="stylesheet">
+font-family: 'Caesar Dressing', cursive;

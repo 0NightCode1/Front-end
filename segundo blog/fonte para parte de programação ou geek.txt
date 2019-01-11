@@ -1,0 +1,49 @@
+TECNOLOGIA
+<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+font-family: 'Press Start 2P', cursive;
+
+p
+<link href="https://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet">
+font-family: 'Aldrich', sans-serif;
+
+
+
+LIVRO
+<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+font-family: 'Dancing Script', cursive;
+
+h1
+<link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+font-family: 'Bangers', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Frijole" rel="stylesheet">
+font-family: 'Frijole', cursive;
+
+
+p
+<link href="https://fonts.googleapis.com/css?family=Dokdo" rel="stylesheet">
+font-family: 'Dokdo', cursive;
+
+
+
+
+
+
+EMPREEDEDORISMO
+h1
+<link href="https://fonts.googleapis.com/css?family=Six+Caps" rel="stylesheet">
+font-family: 'Six Caps', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
+font-family: 'Bungee Inline', cursive;
+
+
+<link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
+font-family: 'Faster One', cursive;
+
+
+
+SECRETO
+h1
+<link href="https://fonts.googleapis.com/css?family=Eater" rel="stylesheet">
+font-family: 'Eater', cursive;
